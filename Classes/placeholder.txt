@@ -1,0 +1,6 @@
+AppDelegate - main application entry point
+OfflineSettings - class used to handle data storage
+SceneGameAbstract - the layer that contains the moving background, cannon, and cannonballs.
+SceneGameAuto - scene which automatically controls the wheel
+SceneGameUser - scene where the user controls the wheel
+SceneMainMenu - scene which controls the main menu

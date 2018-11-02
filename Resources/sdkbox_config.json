@@ -1,0 +1,30 @@
+{
+    "android": {
+        "AdMob": {
+            "test": false, 
+            "ads": {
+                "mainmenu": {
+                    "width": 0, 
+                    "type": "banner", 
+                    "id": "ca-app-pub-2193642120593736/1976649406", 
+                    "alignment": "bottom", 
+                    "height": 0
+                }
+            }
+        }
+    }, 
+    "ios": {
+        "AdMob": {
+            "test": false, 
+            "ads": {
+                "mainmenu": {
+                    "width": 0, 
+                    "type": "banner", 
+                    "id": "ca-app-pub-2193642120593736/4930115801", 
+                    "alignment": "bottom", 
+                    "height": 0
+                }
+            }
+        }
+    }
+}
